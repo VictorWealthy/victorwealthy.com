@@ -198,3 +198,9 @@ function scrollFunction(){
 }
 
 //  *****   JavaScript Code For Sticky Menubar Ends   ***** 
+
+
+
+
+function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}
+(document,"script","https://chimpstatic.com/mcjs-connected/js/users/09adaf3cf3d687af5e440764c/d02da946cb3e7afc109759b78.js");
